@@ -1,5 +1,9 @@
 package com.kodilla.sudoku.board;
 
+/**
+ * Author: Radosław Żerek
+ */
+
 public class Prototype implements Cloneable {
     @Override
     protected Object clone() throws CloneNotSupportedException {

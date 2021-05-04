@@ -8,6 +8,10 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Author: Radosław Żerek
+ */
+
 public class Game {
     private final Board board = new Board();
     private final Scanner scanner = new Scanner(System.in);

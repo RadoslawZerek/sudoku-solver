@@ -5,6 +5,10 @@ import com.kodilla.sudoku.elements.SudokuElements;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Author: Radosław Żerek
+ */
+
 public class Board extends Prototype {
     public final static int MIN_INDEX = 0;
     public final static int MAX_INDEX = 8;

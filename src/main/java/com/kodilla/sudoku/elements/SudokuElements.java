@@ -1,5 +1,9 @@
 package com.kodilla.sudoku.elements;
 
+/**
+ * Author: Radosław Żerek
+ */
+
 public class SudokuElements {
     private int value;
     public static final int EMPTY = -1;
