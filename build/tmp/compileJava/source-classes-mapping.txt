@@ -1,0 +1,16 @@
+com/kodilla/sudoku/board/Board.java
+ com.kodilla.sudoku.board.Board
+com/kodilla/sudoku/game/Game.java
+ com.kodilla.sudoku.game.Game
+com/kodilla/sudoku/elements/SudokuElements.java
+ com.kodilla.sudoku.elements.SudokuElements
+com/kodilla/sudoku/main/Application.java
+ com.kodilla.sudoku.main.Application
+com/kodilla/sudoku/board/Prototype.java
+ com.kodilla.sudoku.board.Prototype
+com/kodilla/sudoku/solver/Solver.java
+ com.kodilla.sudoku.solver.Solver
+com/kodilla/sudoku/board/Rows.java
+ com.kodilla.sudoku.board.Rows
+com/kodilla/sudoku/ioservice/IOService.java
+ com.kodilla.sudoku.ioservice.IOService
